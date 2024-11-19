@@ -2,8 +2,7 @@
 - 👀 I’m interested in CSS and Colaborating .
 - 🌱 I’m currently learning PHP, JS and C#
 - 📫 How to reach me? -> raimobfg@gmail.com
-- 😄 Pronouns: HIM
-- ⚡ Fun fact: Huge on Sports and Creative Directing.
+- 😄 Pronouns: Backend.
 
 <!---
 DeDonTrae/DeDonTrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
