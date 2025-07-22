@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeDonTrae
-- 👀 I’m interested in CSS and Colaborating .
+- 👀 Data Magration, Integration and Automation.
 - 🌱 I’m currently learning PHP, JS and C#
 - 📫 How to reach me? -> raimobfg@gmail.com
 - 😄 Pronouns: Backend.
